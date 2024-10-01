@@ -9,7 +9,7 @@ In this investigation I will advocate and explore the framework for a paradigm s
 
 ## People 
 
-Anna-Maria Sichani : Conceptualization, Methodology, Data curation, Formal analysis
+**Anna-Maria Sichani** : Conceptualization, Methodology, Data curation, Formal analysis, Visualisation, Writing
 
 
 
