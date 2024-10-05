@@ -27,7 +27,8 @@ By embracing a positionality-aware AI framework we aim to transcend the limitati
 
 ## People 
 
-**Anna-Maria Sichani** : Conceptualization, Methodology, Data curation, Formal analysis, Visualisation, Writing
+**Anna-Maria Sichani** 
+Conceptualization, Methodology, Data curation, Formal analysis, Visualisation, Writing
 
 
 
