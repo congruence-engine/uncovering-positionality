@@ -34,7 +34,7 @@ Conceptualization, Methodology, Data curation, Formal analysis, Visualisation, W
 
 ## Outputs 
 
-Read here the full report. 
+Read here the [full report](https://github.com/congruence-engine/uncovering-positionality/blob/gh-pages/data/%20Positionality-Aware_workflows_report.pdf). 
 
 Access here the positionality-aware framework cards.
 
