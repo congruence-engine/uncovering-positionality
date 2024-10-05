@@ -32,6 +32,12 @@ Conceptualization, Methodology, Data curation, Formal analysis, Visualisation, W
 
 
 
+## Outputs 
+
+Read here the full report. 
+
+Access here the positionality-aware framework cards.
+
 ## Licence 
 This work is licensed for permissive re-use under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
